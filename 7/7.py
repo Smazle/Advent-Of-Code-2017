@@ -23,7 +23,3 @@ with open("./input") as f:
             relations[name] = []
 
 
-def weight(node, w):
-    
-    
-
